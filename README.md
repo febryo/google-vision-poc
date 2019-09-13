@@ -1,4 +1,4 @@
-# google-vision-poc
+# google-vision-spring-boot-2
 ### Prerequisite
   * Need to enable google vision api, from google console.
   * Need to enable google storage, from google console.
